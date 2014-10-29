@@ -1,5 +1,6 @@
 # System Logging
 Rsyslog
+Auditd
 
 # Indexing, Searching, and Reporting
 Brownian
@@ -16,6 +17,9 @@ Tshark
 ARGUS
 SiLK
 Netflow
+Flow-bat
+flow-tools
+nfdump tools
 
 # Malware
 Cuckoo Sandbox
@@ -32,3 +36,17 @@ Suricata
 AIDE
 MIDAS
 OSSEC
+Ninja
+
+# Visualization
+INAV
+Etherape
+NTop-NG
+
+# Honeypots
+
+# Forensics
+LiME
+Volatility
+Foremost
+PhotoRec
