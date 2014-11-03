@@ -1,6 +1,7 @@
 # System Logging
 Rsyslog
 Auditd
+osquery
 
 # Indexing, Searching, and Reporting
 Brownian
@@ -24,6 +25,7 @@ nfdump tools
 # Malware
 Cuckoo Sandbox
 Ollydbg
+IDA Pro
 gdb
 Yara
 
