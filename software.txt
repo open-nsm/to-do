@@ -1,7 +1,8 @@
-# System Logging
+# System Logging and Analysis
 Rsyslog
 Auditd
 osquery
+Sagan
 
 # Indexing, Searching, and Reporting
 Brownian
